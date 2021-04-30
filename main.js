@@ -1,4 +1,4 @@
-alert("Welcome to Martial Arts Game!!!\n\nMake as much as possible kicks and punches in 10 seconds.\n\nControls of the game:\nPress right arrow key to move ahead.\nPress left arrow key to move back.\nPress 'w' to kick.\nPress 'p' to punch and\nPress arrow down key to block the attack. ")
+alert("Welcome to Martial Arts Game!!!\n\nMake as much as possible kicks and punches in 10 seconds.\n\nControls of the game:\nPress right arrow key to move ahead.\nPress left arrow key to move back.\nPress 'k' to kick.\nPress 'p' to punch and\nPress arrow down key to block the attack. ")
 let c = document.getElementById("myCanvas");
 let ctx = c.getContext("2d");
 
