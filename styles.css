@@ -1,0 +1,15 @@
+body{
+    background-image: url('/images/background.jpg');
+}
+
+#myCanvas{
+    width:500px;height:500px
+}
+
+#countdownDiv{
+    text-align: center;
+}
+
+#startend{
+    text-align:center;
+}
