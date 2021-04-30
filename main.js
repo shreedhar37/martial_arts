@@ -10,7 +10,7 @@ let loadImage = (src, callback) =>{
 let img = document.createElement("img");
 
 let imagePath = (frameNumber, animation) =>{
-   return "/images/" + animation + "/" + frameNumber + ".png"
+   return "images/" + animation + "/" + frameNumber + ".png"
 };
 
 let frames = {
