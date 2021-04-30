@@ -1,5 +1,5 @@
 body{
-    background-image: url('martial_arts/images/background.jpg');
+    background-image: url('/images/background.jpg');
 }
 
 #myCanvas{
